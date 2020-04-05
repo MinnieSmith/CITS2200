@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12c36e3a-7e96-469d-95ef-f43efcdbbba2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="3dc5ff8a-24c9-4e4a-a051-5686417e817e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab2/Lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2/src/ComputerLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2/src/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2/src/LockString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2/src/SuitcaseLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2Q3a/src/StackBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2Q3a/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DequeCyclic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DequeCyclicTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueLinked.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab 1/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab 1/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab 1/.idea/modules.xml" beforeDir="false" />
@@ -14,21 +24,6 @@
       <change beforePath="$PROJECT_DIR$/../Lab 1/out/production/Lab1/Sorter.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab 1/src/SortTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab 1/src/Sorter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/src/ComputerLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/src/ComputerLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/src/Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/src/Lock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/src/LockString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/src/LockString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2/src/SuitcaseLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/src/SuitcaseLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2Q3a/src/StackBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Q3a/src/StackBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab2Q3a/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Q3a/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/src/DequeCyclic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/DequeCyclic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/src/DequeCyclicTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/DequeCyclicTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/src/QueueLinked.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/QueueLinked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3q1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListLinked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListLinked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListLinked2.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,10 +41,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ListLinked.java">
+        <entry file="file://$PROJECT_DIR$/src/QueueCyclic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            <state relative-caret-position="866">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DequeCyclic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="122" selection-start-line="122" selection-end-line="122" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DequeCyclicTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="866">
+              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -63,21 +76,23 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ListLinked2.java" />
-        <option value="$PROJECT_DIR$/src/ListBlock.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/ListLinked.java" />
+        <option value="$PROJECT_DIR$/src/QueueLinked.java" />
+        <option value="$PROJECT_DIR$/src/QueueCyclic.java" />
+        <option value="$PROJECT_DIR$/src/DequeCyclicTwo.java" />
+        <option value="$PROJECT_DIR$/src/DequeCyclic.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       </list>
     </option>
   </component>
@@ -92,40 +107,49 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Lab4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Lab4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Lab4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3" type="462c0819:PsiDirectoryNode" />
               <item name="CITS2200.jar" type="ab9368bb:PsiFileNode" />
             </path>
             <path>
-              <item name="Lab4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3" type="462c0819:PsiDirectoryNode" />
               <item name="CITS2200.jar" type="ab9368bb:PsiFileNode" />
               <item name="CITS2200" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="CITS2200.jar" type="ab9368bb:PsiFileNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -143,37 +167,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Lab4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="12c36e3a-7e96-469d-95ef-f43efcdbbba2" name="Default Changelist" comment="" />
-      <created>1585791720423</created>
+      <changelist id="3dc5ff8a-24c9-4e4a-a051-5686417e817e" name="Default Changelist" comment="" />
+      <created>1585485008295</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585791720423</updated>
+      <updated>1585485008295</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1898" height="1049" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26077586" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28448275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -182,15 +193,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3291536" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -202,59 +212,66 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/CITS2200.jar!/CITS2200/ListLinked.class">
+    <entry file="jar://$PROJECT_DIR$/CITS2200.jar!/CITS2200/Queue.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#3413#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="88">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListLinked2.java" />
-    <entry file="jar://$PROJECT_DIR$/CITS2200.jar!/CITS2200/List.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="23" selection-start-line="5" selection-end-line="32" />
-          <folding>
-            <element signature="e#0#798#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/CITS2200.jar!/CITS2200/WindowLinked.class">
+    <entry file="jar://$PROJECT_DIR$/CITS2200.jar!/CITS2200/Map.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/CITS2200.jar!/CITS2200/Link.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="88">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListBlock.java">
+    <entry file="jar://$PROJECT_DIR$/CITS2200.jar!/CITS2200/Combination.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        <state relative-caret-position="88">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="jar://$PROJECT_DIR$/CITS2200.jar!/CITS2200/Deque.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        <state relative-caret-position="462">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListLinked.java">
+    <entry file="file://$PROJECT_DIR$/src/QueueLinked.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        <state relative-caret-position="528">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DequeCyclic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DequeCyclicTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="866">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QueueCyclic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="866">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
@@ -309,12 +326,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Lab4</last-edited>
+          <last-edited>Lab3q1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
